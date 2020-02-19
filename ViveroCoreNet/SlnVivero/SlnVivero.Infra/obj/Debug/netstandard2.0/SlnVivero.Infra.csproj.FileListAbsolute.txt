@@ -1,0 +1,22 @@
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\ProjectTest\prueba2\SlnVivero\SlnVivero.Infra\bin\Debug\netstandard2.0\SlnVivero.Infra.deps.json
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\ProjectTest\prueba2\SlnVivero\SlnVivero.Infra\bin\Debug\netstandard2.0\SlnVivero.Infra.dll
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\ProjectTest\prueba2\SlnVivero\SlnVivero.Infra\bin\Debug\netstandard2.0\SlnVivero.Infra.pdb
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\ProjectTest\prueba2\SlnVivero\SlnVivero.Infra\bin\Debug\netstandard2.0\SlnVivero.Core.dll
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\ProjectTest\prueba2\SlnVivero\SlnVivero.Infra\bin\Debug\netstandard2.0\SlnVivero.Core.pdb
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\ProjectTest\prueba2\SlnVivero\SlnVivero.Infra\obj\Debug\netstandard2.0\SlnVivero.Infra.csprojAssemblyReference.cache
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\ProjectTest\prueba2\SlnVivero\SlnVivero.Infra\obj\Debug\netstandard2.0\SlnVivero.Infra.AssemblyInfoInputs.cache
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\ProjectTest\prueba2\SlnVivero\SlnVivero.Infra\obj\Debug\netstandard2.0\SlnVivero.Infra.AssemblyInfo.cs
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\ProjectTest\prueba2\SlnVivero\SlnVivero.Infra\obj\Debug\netstandard2.0\SlnVivero.Infra.csproj.CopyComplete
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\ProjectTest\prueba2\SlnVivero\SlnVivero.Infra\obj\Debug\netstandard2.0\SlnVivero.Infra.dll
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\ProjectTest\prueba2\SlnVivero\SlnVivero.Infra\obj\Debug\netstandard2.0\SlnVivero.Infra.pdb
+C:\Users\VS2017-MJ\Desktop\ViveroCoreNet\SlnVivero\SlnVivero.Infra\bin\Debug\netstandard2.0\SlnVivero.Infra.deps.json
+C:\Users\VS2017-MJ\Desktop\ViveroCoreNet\SlnVivero\SlnVivero.Infra\bin\Debug\netstandard2.0\SlnVivero.Infra.dll
+C:\Users\VS2017-MJ\Desktop\ViveroCoreNet\SlnVivero\SlnVivero.Infra\bin\Debug\netstandard2.0\SlnVivero.Infra.pdb
+C:\Users\VS2017-MJ\Desktop\ViveroCoreNet\SlnVivero\SlnVivero.Infra\bin\Debug\netstandard2.0\SlnVivero.Core.dll
+C:\Users\VS2017-MJ\Desktop\ViveroCoreNet\SlnVivero\SlnVivero.Infra\bin\Debug\netstandard2.0\SlnVivero.Core.pdb
+C:\Users\VS2017-MJ\Desktop\ViveroCoreNet\SlnVivero\SlnVivero.Infra\obj\Debug\netstandard2.0\SlnVivero.Infra.csprojResolveAssemblyReference.cache
+C:\Users\VS2017-MJ\Desktop\ViveroCoreNet\SlnVivero\SlnVivero.Infra\obj\Debug\netstandard2.0\SlnVivero.Infra.csproj.CoreCompileInputs.cache
+C:\Users\VS2017-MJ\Desktop\ViveroCoreNet\SlnVivero\SlnVivero.Infra\obj\Debug\netstandard2.0\SlnVivero.Infra.AssemblyInfoInputs.cache
+C:\Users\VS2017-MJ\Desktop\ViveroCoreNet\SlnVivero\SlnVivero.Infra\obj\Debug\netstandard2.0\SlnVivero.Infra.AssemblyInfo.cs
+C:\Users\VS2017-MJ\Desktop\ViveroCoreNet\SlnVivero\SlnVivero.Infra\obj\Debug\netstandard2.0\SlnVivero.Infra.dll
+C:\Users\VS2017-MJ\Desktop\ViveroCoreNet\SlnVivero\SlnVivero.Infra\obj\Debug\netstandard2.0\SlnVivero.Infra.pdb

@@ -1,0 +1,17 @@
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\ProjectTest\prueba2\SlnVivero\SlnVivero.Core\bin\Debug\netstandard2.0\SlnVivero.Core.deps.json
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\ProjectTest\prueba2\SlnVivero\SlnVivero.Core\bin\Debug\netstandard2.0\SlnVivero.Core.dll
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\ProjectTest\prueba2\SlnVivero\SlnVivero.Core\obj\Debug\netstandard2.0\SlnVivero.Core.AssemblyInfoInputs.cache
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\ProjectTest\prueba2\SlnVivero\SlnVivero.Core\obj\Debug\netstandard2.0\SlnVivero.Core.AssemblyInfo.cs
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\ProjectTest\prueba2\SlnVivero\SlnVivero.Core\bin\Debug\netstandard2.0\SlnVivero.Core.pdb
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\ProjectTest\prueba2\SlnVivero\SlnVivero.Core\obj\Debug\netstandard2.0\SlnVivero.Core.dll
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\ProjectTest\prueba2\SlnVivero\SlnVivero.Core\obj\Debug\netstandard2.0\SlnVivero.Core.pdb
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\ProjectTest\prueba2\SlnVivero\SlnVivero.Core\obj\Debug\netstandard2.0\SlnVivero.Core.csprojAssemblyReference.cache
+C:\Users\VS2017-MJ\Desktop\ViveroCoreNet\SlnVivero\SlnVivero.Core\bin\Debug\netstandard2.0\SlnVivero.Core.deps.json
+C:\Users\VS2017-MJ\Desktop\ViveroCoreNet\SlnVivero\SlnVivero.Core\bin\Debug\netstandard2.0\SlnVivero.Core.dll
+C:\Users\VS2017-MJ\Desktop\ViveroCoreNet\SlnVivero\SlnVivero.Core\bin\Debug\netstandard2.0\SlnVivero.Core.pdb
+C:\Users\VS2017-MJ\Desktop\ViveroCoreNet\SlnVivero\SlnVivero.Core\obj\Debug\netstandard2.0\SlnVivero.Core.csprojResolveAssemblyReference.cache
+C:\Users\VS2017-MJ\Desktop\ViveroCoreNet\SlnVivero\SlnVivero.Core\obj\Debug\netstandard2.0\SlnVivero.Core.csproj.CoreCompileInputs.cache
+C:\Users\VS2017-MJ\Desktop\ViveroCoreNet\SlnVivero\SlnVivero.Core\obj\Debug\netstandard2.0\SlnVivero.Core.AssemblyInfoInputs.cache
+C:\Users\VS2017-MJ\Desktop\ViveroCoreNet\SlnVivero\SlnVivero.Core\obj\Debug\netstandard2.0\SlnVivero.Core.AssemblyInfo.cs
+C:\Users\VS2017-MJ\Desktop\ViveroCoreNet\SlnVivero\SlnVivero.Core\obj\Debug\netstandard2.0\SlnVivero.Core.dll
+C:\Users\VS2017-MJ\Desktop\ViveroCoreNet\SlnVivero\SlnVivero.Core\obj\Debug\netstandard2.0\SlnVivero.Core.pdb

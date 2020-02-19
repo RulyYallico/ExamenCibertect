@@ -1,0 +1,60 @@
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\ProjectTest\prueba2\SlnVivero\SlnVivero.Api\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\ProjectTest\prueba2\SlnVivero\SlnVivero.Api\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\ProjectTest\prueba2\SlnVivero\SlnVivero.Api\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\ProjectTest\prueba2\SlnVivero\SlnVivero.Api\bin\Debug\netcoreapp2.2\SlnVivero.Api.deps.json
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\ProjectTest\prueba2\SlnVivero\SlnVivero.Api\bin\Debug\netcoreapp2.2\SlnVivero.Api.runtimeconfig.json
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\ProjectTest\prueba2\SlnVivero\SlnVivero.Api\bin\Debug\netcoreapp2.2\SlnVivero.Api.runtimeconfig.dev.json
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\ProjectTest\prueba2\SlnVivero\SlnVivero.Api\bin\Debug\netcoreapp2.2\SlnVivero.Api.dll
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\ProjectTest\prueba2\SlnVivero\SlnVivero.Api\bin\Debug\netcoreapp2.2\SlnVivero.Api.pdb
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\ProjectTest\prueba2\SlnVivero\SlnVivero.Api\obj\Debug\netcoreapp2.2\SlnVivero.Api.csprojAssemblyReference.cache
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\ProjectTest\prueba2\SlnVivero\SlnVivero.Api\obj\Debug\netcoreapp2.2\SlnVivero.Api.RazorAssemblyInfo.cache
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\ProjectTest\prueba2\SlnVivero\SlnVivero.Api\obj\Debug\netcoreapp2.2\SlnVivero.Api.RazorAssemblyInfo.cs
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\ProjectTest\prueba2\SlnVivero\SlnVivero.Api\obj\Debug\netcoreapp2.2\SlnVivero.Api.AssemblyInfoInputs.cache
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\ProjectTest\prueba2\SlnVivero\SlnVivero.Api\obj\Debug\netcoreapp2.2\SlnVivero.Api.AssemblyInfo.cs
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\ProjectTest\prueba2\SlnVivero\SlnVivero.Api\obj\Debug\netcoreapp2.2\SlnVivero.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\ProjectTest\prueba2\SlnVivero\SlnVivero.Api\obj\Debug\netcoreapp2.2\SlnVivero.Api.dll
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\ProjectTest\prueba2\SlnVivero\SlnVivero.Api\obj\Debug\netcoreapp2.2\SlnVivero.Api.pdb
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\ProjectTest\prueba2\SlnVivero\SlnVivero.Api\bin\Debug\netcoreapp2.2\SlnVivero.Core.dll
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\ProjectTest\prueba2\SlnVivero\SlnVivero.Api\bin\Debug\netcoreapp2.2\SlnVivero.Infra.dll
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\ProjectTest\prueba2\SlnVivero\SlnVivero.Api\bin\Debug\netcoreapp2.2\SlnVivero.Infra.pdb
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\ProjectTest\prueba2\SlnVivero\SlnVivero.Api\bin\Debug\netcoreapp2.2\SlnVivero.Core.pdb
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\ProjectTest\prueba2\SlnVivero\SlnVivero.Api\obj\Debug\netcoreapp2.2\SlnVivero.Api.csproj.CopyComplete
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\projects\ViveroEsperanza\ViveroCoreNet\SlnVivero\SlnVivero.Api\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\projects\ViveroEsperanza\ViveroCoreNet\SlnVivero\SlnVivero.Api\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\projects\ViveroEsperanza\ViveroCoreNet\SlnVivero\SlnVivero.Api\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\projects\ViveroEsperanza\ViveroCoreNet\SlnVivero\SlnVivero.Api\bin\Debug\netcoreapp2.2\SlnVivero.Api.deps.json
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\projects\ViveroEsperanza\ViveroCoreNet\SlnVivero\SlnVivero.Api\bin\Debug\netcoreapp2.2\SlnVivero.Api.runtimeconfig.json
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\projects\ViveroEsperanza\ViveroCoreNet\SlnVivero\SlnVivero.Api\bin\Debug\netcoreapp2.2\SlnVivero.Api.runtimeconfig.dev.json
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\projects\ViveroEsperanza\ViveroCoreNet\SlnVivero\SlnVivero.Api\bin\Debug\netcoreapp2.2\SlnVivero.Api.dll
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\projects\ViveroEsperanza\ViveroCoreNet\SlnVivero\SlnVivero.Api\bin\Debug\netcoreapp2.2\SlnVivero.Api.pdb
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\projects\ViveroEsperanza\ViveroCoreNet\SlnVivero\SlnVivero.Api\bin\Debug\netcoreapp2.2\SlnVivero.Core.dll
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\projects\ViveroEsperanza\ViveroCoreNet\SlnVivero\SlnVivero.Api\bin\Debug\netcoreapp2.2\SlnVivero.Infra.dll
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\projects\ViveroEsperanza\ViveroCoreNet\SlnVivero\SlnVivero.Api\bin\Debug\netcoreapp2.2\SlnVivero.Infra.pdb
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\projects\ViveroEsperanza\ViveroCoreNet\SlnVivero\SlnVivero.Api\bin\Debug\netcoreapp2.2\SlnVivero.Core.pdb
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\projects\ViveroEsperanza\ViveroCoreNet\SlnVivero\SlnVivero.Api\obj\Debug\netcoreapp2.2\SlnVivero.Api.csprojAssemblyReference.cache
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\projects\ViveroEsperanza\ViveroCoreNet\SlnVivero\SlnVivero.Api\obj\Debug\netcoreapp2.2\SlnVivero.Api.RazorAssemblyInfo.cache
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\projects\ViveroEsperanza\ViveroCoreNet\SlnVivero\SlnVivero.Api\obj\Debug\netcoreapp2.2\SlnVivero.Api.RazorAssemblyInfo.cs
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\projects\ViveroEsperanza\ViveroCoreNet\SlnVivero\SlnVivero.Api\obj\Debug\netcoreapp2.2\SlnVivero.Api.AssemblyInfoInputs.cache
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\projects\ViveroEsperanza\ViveroCoreNet\SlnVivero\SlnVivero.Api\obj\Debug\netcoreapp2.2\SlnVivero.Api.AssemblyInfo.cs
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\projects\ViveroEsperanza\ViveroCoreNet\SlnVivero\SlnVivero.Api\obj\Debug\netcoreapp2.2\SlnVivero.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\projects\ViveroEsperanza\ViveroCoreNet\SlnVivero\SlnVivero.Api\obj\Debug\netcoreapp2.2\SlnVivero.Api.csproj.CopyComplete
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\projects\ViveroEsperanza\ViveroCoreNet\SlnVivero\SlnVivero.Api\obj\Debug\netcoreapp2.2\SlnVivero.Api.dll
+C:\Users\Ruly Yallico Lazo\Documents\Visual Studio 2019\projects\ViveroEsperanza\ViveroCoreNet\SlnVivero\SlnVivero.Api\obj\Debug\netcoreapp2.2\SlnVivero.Api.pdb
+C:\Users\VS2017-MJ\Desktop\ViveroCoreNet\SlnVivero\SlnVivero.Api\bin\Debug\netcoreapp2.2\SlnVivero.Api.deps.json
+C:\Users\VS2017-MJ\Desktop\ViveroCoreNet\SlnVivero\SlnVivero.Api\bin\Debug\netcoreapp2.2\SlnVivero.Api.runtimeconfig.json
+C:\Users\VS2017-MJ\Desktop\ViveroCoreNet\SlnVivero\SlnVivero.Api\bin\Debug\netcoreapp2.2\SlnVivero.Api.runtimeconfig.dev.json
+C:\Users\VS2017-MJ\Desktop\ViveroCoreNet\SlnVivero\SlnVivero.Api\bin\Debug\netcoreapp2.2\SlnVivero.Api.dll
+C:\Users\VS2017-MJ\Desktop\ViveroCoreNet\SlnVivero\SlnVivero.Api\bin\Debug\netcoreapp2.2\SlnVivero.Api.pdb
+C:\Users\VS2017-MJ\Desktop\ViveroCoreNet\SlnVivero\SlnVivero.Api\bin\Debug\netcoreapp2.2\SlnVivero.Core.dll
+C:\Users\VS2017-MJ\Desktop\ViveroCoreNet\SlnVivero\SlnVivero.Api\bin\Debug\netcoreapp2.2\SlnVivero.Infra.dll
+C:\Users\VS2017-MJ\Desktop\ViveroCoreNet\SlnVivero\SlnVivero.Api\bin\Debug\netcoreapp2.2\SlnVivero.Infra.pdb
+C:\Users\VS2017-MJ\Desktop\ViveroCoreNet\SlnVivero\SlnVivero.Api\bin\Debug\netcoreapp2.2\SlnVivero.Core.pdb
+C:\Users\VS2017-MJ\Desktop\ViveroCoreNet\SlnVivero\SlnVivero.Api\obj\Debug\netcoreapp2.2\SlnVivero.Api.csprojResolveAssemblyReference.cache
+C:\Users\VS2017-MJ\Desktop\ViveroCoreNet\SlnVivero\SlnVivero.Api\obj\Debug\netcoreapp2.2\SlnVivero.Api.csproj.CoreCompileInputs.cache
+C:\Users\VS2017-MJ\Desktop\ViveroCoreNet\SlnVivero\SlnVivero.Api\obj\Debug\netcoreapp2.2\SlnVivero.Api.RazorAssemblyInfo.cache
+C:\Users\VS2017-MJ\Desktop\ViveroCoreNet\SlnVivero\SlnVivero.Api\obj\Debug\netcoreapp2.2\SlnVivero.Api.RazorAssemblyInfo.cs
+C:\Users\VS2017-MJ\Desktop\ViveroCoreNet\SlnVivero\SlnVivero.Api\obj\Debug\netcoreapp2.2\SlnVivero.Api.AssemblyInfoInputs.cache
+C:\Users\VS2017-MJ\Desktop\ViveroCoreNet\SlnVivero\SlnVivero.Api\obj\Debug\netcoreapp2.2\SlnVivero.Api.AssemblyInfo.cs
+C:\Users\VS2017-MJ\Desktop\ViveroCoreNet\SlnVivero\SlnVivero.Api\obj\Debug\netcoreapp2.2\SlnVivero.Api.RazorTargetAssemblyInfo.cache
+C:\Users\VS2017-MJ\Desktop\ViveroCoreNet\SlnVivero\SlnVivero.Api\obj\Debug\netcoreapp2.2\SlnVivero.Api.dll
+C:\Users\VS2017-MJ\Desktop\ViveroCoreNet\SlnVivero\SlnVivero.Api\obj\Debug\netcoreapp2.2\SlnVivero.Api.pdb
